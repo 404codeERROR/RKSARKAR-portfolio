@@ -4,17 +4,15 @@
 
 ---
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
+### Made with ❤️ by [Ramkrishna sarkar](https://www.youtube.com/@Introbird586)
 
 Like my works and want to support me?
-
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
 
 ---
 
 ## Other projects
 
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
+📚 [All Web Project Tutorials](https://github.com/404codeERROR)
   
 
 
