@@ -1,4 +1,4 @@
-![Watch Now](./img/Design.jpg)
+![Watch Now](https://github.com/404codeERROR/RKSARKAR-portfolio/blob/main/img/IMG-20241220-WA0034.jpg)
 # One page Portfolio Website (HTML CSS Project)
 **Watch on YouTube ![YouTube Video Views](https://img.shields.io/youtube/views/ZFQkb26UD1Y?style=social) : https://www.youtube.com/@Introbird586
 
